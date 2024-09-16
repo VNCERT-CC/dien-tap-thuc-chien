@@ -1,3 +1,7 @@
+<div align="center">
+  <a href="https://vncert.vn"><img src="https://github.com/VNCERT-CC/digital-forensics-lab/blob/main/docs/images/logo.png" style="width: 185px" width="185"></a>
+</div>
+
 # Diễn tập thực chiến
 [Hướng dẫn] Tổ chức và thực hiện diễn tập thực chiến
 
@@ -18,3 +22,8 @@
 
 # Ban giám khảo
 1. [Sau diễn tập](./3.%20Sau%20diễn%20tập/Ban%20giám%20khảo.md)
+
+# Tham khảo thêm
+- https://vncert.vn/post/1983/chi-thi-18-ct-ttg-ngay-13-10-2022/
+- https://vncert.vn/post/1599/chi-thi-60-ct-btttt-ngay-16-09-2021/
+- https://vncert.vn/post/1645/quyet-dinh-1439-qd-btttt-ngay-26-07-2022/
