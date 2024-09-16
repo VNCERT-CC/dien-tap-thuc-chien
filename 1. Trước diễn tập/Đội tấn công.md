@@ -15,6 +15,7 @@ Chuẩn bị danh sách các công cụ để tấn công vào hệ thống:
 - Tài nguyên hệ thống: Máy chủ, domain, IP, năng lực lưu trữ, tính toán, mạng,...
 - Dữ liệu của hệ thống
 - Người dùng, người dân trên hệ thống
+- Hoạt động của cơ quan chủ quản trên hệ thống (business)
 
 Từ các mục tiêu trên, đội tấn công thực hiện mô hình hóa cuộc tấn công để đạt được mục đích cuối cùng.
 
